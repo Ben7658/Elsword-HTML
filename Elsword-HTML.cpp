@@ -31,21 +31,26 @@
             <tr>
                 <th>No</th>
                 <th>옵션</th>
-                <th>적색 마력석</th>
-                <th>청색 마력석</th>
-                <th>황색 마력석</th>
-                <th>거대 마력석</th>
+                <th>적색&nbsp;마력석</th>
+                <th>청색&nbsp;마력석</th>
+                <th>황색&nbsp;마력석</th>
+                <th>거대&nbsp;마력석</th>
             </tr>
         </thead>
         <tfoot>
             <tr>
-                <th colspan="3">초록색 = 해당 색상에 높은 수치 효율을 볼 수 있는 옵션</th>
-                <th colspan="3">믿줄 = 해당 마력석으로 띄울 수 있는 극옵 수치</th>
+                <th colspan="3">초록색&nbsp;&#61;&nbsp;해당&nbsp;색상에&nbsp;높은&nbsp;수치&nbsp;효율을&nbsp;볼&nbsp;수&nbsp;있는&nbsp;옵션</th>
+                <th colspan="3">믿줄&nbsp;&#61;&nbsp;해당&nbsp;마력석으로&nbsp;띄울&nbsp;수&nbsp;있는&nbsp;극옵&nbsp;수치</th>
             </tr>
         </tfoot>
         <tbody>
             <tr>
-                
+                <th>1</th>
+                <th>&#40;물리공격력&nbsp;레벨&#41;&#44;&nbsp;&#40;마법공격력&nbsp;레벨&#41;</th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
             </tr>
             <tr>
                 
