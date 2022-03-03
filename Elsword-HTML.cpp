@@ -7,16 +7,6 @@
     <title>Elsword.gg</title>
 </head>
 <body>
-    <h1>Entity Code에 대하여</h1><br>
-
-    &lt;산학연&gt;<br>
-    남&amp;여<br>
-    철수가 말했다. <br>
-    &quot;아 힘들다~&quot;<br><br>
-
-
-    <h1>Table에 대하여</h1><br>
-
     <table width="100%" border="1" summary="2022-02-28일부터 2022-03-01일 table에 대하여 공부함">
         <caption>엘소드 마력작 옵션</caption>
         <colgroup>
